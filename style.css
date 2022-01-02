@@ -1,0 +1,27 @@
+#videos{
+width: 100%;
+height: 500px;
+border: none;
+}
+#campuslife img{
+    width: 800px;
+}
+#campuslife p{
+    font-size: medium;
+}
+.movie_head{
+font-size: 20px;
+padding: 6px 22px;
+border-radius: 10px;
+margin-bottom: 15px;
+}
+.movie_head i{
+float: right;
+}
+.achivement_head span{
+color: blue;
+}
+.achivement_head img{
+    width: 80%;
+    height: 40%;
+}
